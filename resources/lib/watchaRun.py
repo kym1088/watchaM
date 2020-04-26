@@ -62,7 +62,7 @@ class iIiiI1 ( object ) :
   self . _addon_url = in_addonurl
   self . _addon_handle = in_handle
   self . main_params = in_params
-  self . WatchaObj = o00ooooO0oO ( )
+  self . WatchaObj = i1iIIi1 ( )
   if 78 - 78: OoO0O00
   if 18 - 18: O0 - iII111i / iII111i + ooOoO0o % ooOoO0o - IiII
   if 62 - 62: iII111i - IiII - OoOoOO00 % i1IIi / oO0o
@@ -533,12 +533,16 @@ class iIiiI1 ( object ) :
     i1i1iI1iiiI = str ( I111iI + 1 )
     self . add_dir ( Ii1iIiii1 , sublabel = i1i1iI1iiiI , img = '' , infoLabels = None , isFolder = True , params = i1i )
     if 75 - 75: I11i
-  if len ( I11i1II ) > 0 : xbmcplugin . endOfDirectory ( self . _addon_handle , cacheToDisc = False )
-  if 71 - 71: ooOoO0o
-  if 53 - 53: OoooooooOO % Ii1I . IiII / i11iIiiIii % iII111i
-  if 28 - 28: I11i
-  if 58 - 58: OoOoOO00
-  if 37 - 37: Oo0Ooo - iIii1I11I1II1 / I1ii11iIi11i
+  if len ( I11i1II ) > 0 :
+   if IiII111i1i11 == 'arrivals/latest' :
+    xbmcplugin . endOfDirectory ( self . _addon_handle , cacheToDisc = True )
+   else :
+    xbmcplugin . endOfDirectory ( self . _addon_handle , cacheToDisc = False )
+    if 71 - 71: ooOoO0o
+    if 53 - 53: OoooooooOO % Ii1I . IiII / i11iIiiIii % iII111i
+    if 28 - 28: I11i
+    if 58 - 58: OoOoOO00
+    if 37 - 37: Oo0Ooo - iIii1I11I1II1 / I1ii11iIi11i
  def dp_Episode_List ( self , args ) :
   if 73 - 73: i11iIiiIii - IiII
   self . WatchaObj . SaveCredential ( self . get_winCredential ( ) )
