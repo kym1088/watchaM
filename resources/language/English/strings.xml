@@ -15,6 +15,10 @@
 	<string id="10313">profile 3</string>
 	<string id="10314">profile 4</string>
 	<!-- Warning -->
+	<string id="10351">VOD Watch list</string>
+	<string id="10352">episode list</string>
+	<string id="10353">episode play</string>
+	<!-- Warning -->
 	<string id="30101">Set your ID or Password.</string>
 	<string id="30102">Are you change settings now?</string>
 	<string id="30103">Login Failed!</string>
