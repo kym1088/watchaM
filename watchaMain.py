@@ -27,7 +27,7 @@ def Iiii111Ii11I1 ( ) :
  return ooO0oooOoO0
  if 43 - 43: Ii1I . oO0o
  if 27 - 27: OoO0O00 - O0 . I1Ii111 * iII111i - I1ii11iIi11i
-i1111 = iIiiI1 ( sys . argv [ 0 ] , int ( sys . argv [ 1 ] ) , Iiii111Ii11I1 ( ) )
+i1111 = oo ( sys . argv [ 0 ] , int ( sys . argv [ 1 ] ) , Iiii111Ii11I1 ( ) )
 i1111 . watcha_main ( )
 if 22 - 22: Ii1I . IiII
 if 41 - 41: I1Ii111 . ooOoO0o * IiII % i11iIiiIii
