@@ -1,6 +1,15 @@
 # watchaM-v18
  왓챠 애드온 for Kodi18
 
+
+###
+# 1.6.1 이후 부터는 저장소를 통해서만 업데이트 됩니다.
+* [Korea OTT Package for Kodi 18 (public)-18.0.0.zip](https://github.com/kym1088/repository_public/raw/master/repository.nightrain_v18_public.zip)
+* [Korea OTT Package for Kodi 19 (public)-19.0.0.zip](https://github.com/kym1088/repository_public/raw/master/repository.nightrain_v19_public.zip)
+###
+
+
+# 공통
 - 해상도는 1080p, 720p만 적용됩니다.
 
 - 1080p 적용안될시 조치방법
