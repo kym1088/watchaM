@@ -2,6 +2,8 @@
  왓챠 애드온 for Kodi18
 
 # 본 애드온은 영리목적의 사용을 금지합니다.
+  - 협의없이 개인적인 파일(저장소/애드온) 직접공유는 불가
+
 
 # 현재는 저장소를 통해서만 업데이트 됩니다. (2020.11.30 : 1.7.0 버전)
 * [Korea OTT Package for Kodi 18 (public)-18.0.0.zip](https://github.com/kym1088/repository_public/raw/master/repository.nightrain_v18_public.zip)
