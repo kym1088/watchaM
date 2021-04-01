@@ -10,7 +10,7 @@
    - https://cafe.naver.com/mk802/41713
    - https://cafe.naver.com/shieldtv/2711
 
-
+#
 # 저장소 간단 사용방법
 - 사용하는 kodi 버전에 맞게 위 링크의 저장소 파일 다운로드
 - 저장소도 하나의 애드온이라 처음 설치작업은 한번은 해줘야합니다.
